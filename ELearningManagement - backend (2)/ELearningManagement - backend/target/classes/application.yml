@@ -1,0 +1,6 @@
+#server:
+#  ssl:
+#    key-alias: lms
+#    key-store: classpath:lms
+#    key-store-type: lms
+#    key-store-password: password
